@@ -47,4 +47,3 @@ bqplot
 s3fs
 h3pandas
 pydeck
-json
